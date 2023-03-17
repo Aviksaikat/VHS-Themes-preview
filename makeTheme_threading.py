@@ -15,7 +15,7 @@ def process_theme(theme):
     
     with open(file_name, "w+") as f:
         data = f"""
-Output "media/{theme}.gif"
+Output "media/{theme.replace(' ', '_')}.gif"
 
 Set FontSize 42
 Set Width 1280

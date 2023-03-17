@@ -1,562 +1,562 @@
-### 3024-Night.tape
-![](media/3024-Night.gif)
-### 3024-Day.tape
-![](media/3024-Day.gif)
-### Adventure.tape
+### 3024_Night
+![](media/3024_Night.gif)
+### 3024_Day
+![](media/3024_Day.gif)
+### Adventure
 ![](media/Adventure.gif)
-### Afterglow.tape
+### Afterglow
 ![](media/Afterglow.gif)
-### AlienBlood.tape
+### AlienBlood
 ![](media/AlienBlood.gif)
-### AdventureTime.tape
+### AdventureTime
 ![](media/AdventureTime.gif)
-### Andromeda.tape
+### Andromeda
 ![](media/Andromeda.gif)
-### Arthur.tape
+### Arthur
 ![](media/Arthur.gif)
-### Argonaut.tape
+### Argonaut
 ![](media/Argonaut.gif)
-### AtelierSulphurpool.tape
+### AtelierSulphurpool
 ![](media/AtelierSulphurpool.gif)
-### Atom.tape
+### Atom
 ![](media/Atom.gif)
-### AtomOneLight.tape
+### AtomOneLight
 ![](media/AtomOneLight.gif)
-### Aurora.tape
+### Aurora
 ![](media/Aurora.gif)
-### ayu_light.tape
+### ayu_light
 ![](media/ayu_light.gif)
-### ayu.tape
+### ayu
 ![](media/ayu.gif)
-### Belafonte-Day.tape
-![](media/Belafonte-Day.gif)
-### Banana-Blueberry.tape
-![](media/Banana-Blueberry.gif)
-### Batman.tape
+### Belafonte_Day
+![](media/Belafonte_Day.gif)
+### Banana_Blueberry
+![](media/Banana_Blueberry.gif)
+### Batman
 ![](media/Batman.gif)
-### Belafonte-Night.tape
-![](media/Belafonte-Night.gif)
-### BirdsOfParadise.tape
+### Belafonte_Night
+![](media/Belafonte_Night.gif)
+### BirdsOfParadise
 ![](media/BirdsOfParadise.gif)
-### Blazer.tape
+### Blazer
 ![](media/Blazer.gif)
-### BlueBerryPie.tape
+### BlueBerryPie
 ![](media/BlueBerryPie.gif)
-### BlulocoDark.tape
+### BlulocoDark
 ![](media/BlulocoDark.gif)
-### Blue-Matrix.tape
-![](media/Blue-Matrix.gif)
-### BlulocoLight.tape
+### Blue_Matrix
+![](media/Blue_Matrix.gif)
+### BlulocoLight
 ![](media/BlulocoLight.gif)
-### Breeze.tape
+### Breeze
 ![](media/Breeze.gif)
-### Borland.tape
+### Borland
 ![](media/Borland.gif)
-### Bright-Lights.tape
-![](media/Bright-Lights.gif)
-### Broadcast.tape
+### Bright_Lights
+![](media/Bright_Lights.gif)
+### Broadcast
 ![](media/Broadcast.gif)
-### Brogrammer.tape
+### Brogrammer
 ![](media/Brogrammer.gif)
-### Bubbles.tape
+### Bubbles
 ![](media/Bubbles.gif)
-### Builtin-Dark.tape
-![](media/Builtin-Dark.gif)
-### Builtin-Light.tape
-![](media/Builtin-Light.gif)
-### Builtin-Pastel-Dark.tape
-![](media/Builtin-Pastel-Dark.gif)
-### Builtin-Solarized-Light.tape
-![](media/Builtin-Solarized-Light.gif)
-### Builtin-Solarized-Dark.tape
-![](media/Builtin-Solarized-Dark.gif)
-### Builtin-Tango-Dark.tape
-![](media/Builtin-Tango-Dark.gif)
-### Builtin-Tango-Light.tape
-![](media/Builtin-Tango-Light.gif)
-### C64.tape
+### Builtin_Dark
+![](media/Builtin_Dark.gif)
+### Builtin_Light
+![](media/Builtin_Light.gif)
+### Builtin_Pastel_Dark
+![](media/Builtin_Pastel_Dark.gif)
+### Builtin_Solarized_Light
+![](media/Builtin_Solarized_Light.gif)
+### Builtin_Solarized_Dark
+![](media/Builtin_Solarized_Dark.gif)
+### Builtin_Tango_Dark
+![](media/Builtin_Tango_Dark.gif)
+### Builtin_Tango_Light
+![](media/Builtin_Tango_Light.gif)
+### C64
 ![](media/C64.gif)
-### Calamity.tape
+### Calamity
 ![](media/Calamity.gif)
-### Catppuccin-Frappe.tape
-![](media/Catppuccin-Frappe.gif)
-### Catppuccin-Latte.tape
-![](media/Catppuccin-Latte.gif)
-### Catppuccin-Macchiato.tape
-![](media/Catppuccin-Macchiato.gif)
-### Chalk.tape
+### Catppuccin_Frappe
+![](media/Catppuccin_Frappe.gif)
+### Catppuccin_Latte
+![](media/Catppuccin_Latte.gif)
+### Catppuccin_Macchiato
+![](media/Catppuccin_Macchiato.gif)
+### Chalk
 ![](media/Chalk.gif)
-### Catppuccin-Mocha.tape
-![](media/Catppuccin-Mocha.gif)
-### Chalkboard.tape
+### Catppuccin_Mocha
+![](media/Catppuccin_Mocha.gif)
+### Chalkboard
 ![](media/Chalkboard.gif)
-### Chester.tape
+### Chester
 ![](media/Chester.gif)
-### ChallengerDeep.tape
+### ChallengerDeep
 ![](media/ChallengerDeep.gif)
-### CLRS.tape
+### CLRS
 ![](media/CLRS.gif)
-### Ciapre.tape
+### Ciapre
 ![](media/Ciapre.gif)
-### Cobalt-Neon.tape
-![](media/Cobalt-Neon.gif)
-### Cobalt2.tape
+### Cobalt_Neon
+![](media/Cobalt_Neon.gif)
+### Cobalt2
 ![](media/Cobalt2.gif)
-### coffee_theme.tape
+### coffee_theme
 ![](media/coffee_theme.gif)
-### Contrast-Light.tape
-![](media/Contrast-Light.gif)
-### Crystal-Violet.tape
-![](media/Crystal-Violet.gif)
-### CrayonPonyFish.tape
+### Contrast_Light
+![](media/Contrast_Light.gif)
+### Crystal_Violet
+![](media/Crystal_Violet.gif)
+### CrayonPonyFish
 ![](media/CrayonPonyFish.gif)
-### Cyber-Cube.tape
-![](media/Cyber-Cube.gif)
-### cyberpunk.tape
+### Cyber_Cube
+![](media/Cyber_Cube.gif)
+### cyberpunk
 ![](media/cyberpunk.gif)
-### CyberPunk2077.tape
+### CyberPunk2077
 ![](media/CyberPunk2077.gif)
-### Cyberdyne.tape
+### Cyberdyne
 ![](media/Cyberdyne.gif)
-### Dark-Pastel.tape
-![](media/Dark-Pastel.gif)
-### Darkside.tape
+### Dark_Pastel
+![](media/Dark_Pastel.gif)
+### Darkside
 ![](media/Darkside.gif)
-### Dark+.tape
+### Dark+
 ![](media/Dark+.gif)
-### Desert.tape
+### Desert
 ![](media/Desert.gif)
-### deep.tape
+### deep
 ![](media/deep.gif)
-### DimmedMonokai.tape
+### DimmedMonokai
 ![](media/DimmedMonokai.gif)
-### DjangoRebornAgain.tape
+### DjangoRebornAgain
 ![](media/DjangoRebornAgain.gif)
-### DjangoSmooth.tape
+### DjangoSmooth
 ![](media/DjangoSmooth.gif)
-### Django.tape
+### Django
 ![](media/Django.gif)
-### DoomOne.tape
+### DoomOne
 ![](media/DoomOne.gif)
-### DotGov.tape
+### DotGov
 ![](media/DotGov.gif)
-### Doom-Peacock.tape
-![](media/Doom-Peacock.gif)
-### Dracula.tape
+### Doom_Peacock
+![](media/Doom_Peacock.gif)
+### Dracula
 ![](media/Dracula.gif)
-### DraculaPlus.tape
+### DraculaPlus
 ![](media/DraculaPlus.gif)
-### Dracula+.tape
+### Dracula+
 ![](media/Dracula+.gif)
-### Elemental.tape
+### Elemental
 ![](media/Elemental.gif)
-### Earthsong.tape
+### Earthsong
 ![](media/Earthsong.gif)
-### Duotone-Dark.tape
-![](media/Duotone-Dark.gif)
-### Elementary.tape
+### Duotone_Dark
+![](media/Duotone_Dark.gif)
+### Elementary
 ![](media/Elementary.gif)
-### Espresso.tape
+### Espresso
 ![](media/Espresso.gif)
-### ENCOM.tape
+### ENCOM
 ![](media/ENCOM.gif)
-### Fideloper.tape
+### Fideloper
 ![](media/Fideloper.gif)
-### Fahrenheit.tape
+### Fahrenheit
 ![](media/Fahrenheit.gif)
-### Espresso-Libre.tape
-![](media/Espresso-Libre.gif)
-### Firewatch.tape
+### Espresso_Libre
+![](media/Espresso_Libre.gif)
+### Firewatch
 ![](media/Firewatch.gif)
-### FishTank.tape
+### FishTank
 ![](media/FishTank.gif)
-### FirefoxDev.tape
+### FirefoxDev
 ![](media/FirefoxDev.gif)
-### Floraverse.tape
+### Floraverse
 ![](media/Floraverse.gif)
-### Flat.tape
+### Flat
 ![](media/Flat.gif)
-### Flatland.tape
+### Flatland
 ![](media/Flatland.gif)
-### Framer.tape
+### Framer
 ![](media/Framer.gif)
-### FrontEndDelight.tape
+### FrontEndDelight
 ![](media/FrontEndDelight.gif)
-### ForestBlue.tape
+### ForestBlue
 ![](media/ForestBlue.gif)
-### Galaxy.tape
+### Galaxy
 ![](media/Galaxy.gif)
-### FunForrest.tape
+### FunForrest
 ![](media/FunForrest.gif)
-### Galizur.tape
+### Galizur
 ![](media/Galizur.gif)
-### Glacier.tape
+### Glacier
 ![](media/Glacier.gif)
-### Github.tape
+### Github
 ![](media/Github.gif)
-### Ganyu.tape
+### Ganyu
 ![](media/Ganyu.gif)
-### Glorious.tape
+### Glorious
 ![](media/Glorious.gif)
-### Grape.tape
+### Grape
 ![](media/Grape.gif)
-### Grass.tape
+### Grass
 ![](media/Grass.gif)
-### Guezwhoz.tape
+### Guezwhoz
 ![](media/Guezwhoz.gif)
-### Gruvbox-Light.tape
-![](media/Gruvbox-Light.gif)
-### Gruvbox-Dark.tape
-![](media/Gruvbox-Dark.gif)
-### Hacktober.tape
+### Gruvbox_Light
+![](media/Gruvbox_Light.gif)
+### Gruvbox_Dark
+![](media/Gruvbox_Dark.gif)
+### Hacktober
 ![](media/Hacktober.gif)
-### h4rithd.tape
+### h4rithd
 ![](media/h4rithd.gif)
-### h4rithd.com.tape
+### h4rithd.com
 ![](media/h4rithd.gif)
-### Harper.tape
+### Harper
 ![](media/Harper.gif)
-### Hardcore.tape
+### Hardcore
 ![](media/Hardcore.gif)
-### Highway.tape
+### Highway
 ![](media/Highway.gif)
-### Hipster-Green.tape
-![](media/Hipster-Green.gif)
-### Homebrew.tape
+### Hipster_Green
+![](media/Hipster_Green.gif)
+### Homebrew
 ![](media/Homebrew.gif)
-### Hivacruz.tape
+### Hivacruz
 ![](media/Hivacruz.gif)
-### Hopscotch.tape
+### Hopscotch
 ![](media/Hopscotch.gif)
-### Horizon.tape
+### Horizon
 ![](media/Horizon.gif)
-### Hopscotch.256.tape
+### Hopscotch.256
 ![](media/Hopscotch.gif)
-### Hurtado.tape
+### Hurtado
 ![](media/Hurtado.gif)
-### Hyper.tape
+### Hyper
 ![](media/Hyper.gif)
-### Hybrid.tape
+### Hybrid
 ![](media/Hybrid.gif)
-### idea.tape
+### idea
 ![](media/idea.gif)
-### IC_Orange_PPL.tape
+### IC_Orange_PPL
 ![](media/IC_Orange_PPL.gif)
-### IC_Green_PPL.tape
+### IC_Green_PPL
 ![](media/IC_Green_PPL.gif)
-### IR_Black.tape
+### IR_Black
 ![](media/IR_Black.gif)
-### idleToes.tape
+### idleToes
 ![](media/idleToes.gif)
-### Jackie-Brown.tape
-![](media/Jackie-Brown.gif)
-### Jellybeans.tape
+### Jackie_Brown
+![](media/Jackie_Brown.gif)
+### Jellybeans
 ![](media/Jellybeans.gif)
-### Japanesque.tape
+### Japanesque
 ![](media/Japanesque.gif)
-### JetBrains-Darcula.tape
-![](media/JetBrains-Darcula.gif)
-### Juicy-Colors.tape
-![](media/Juicy-Colors.gif)
-### jubi.tape
+### JetBrains_Darcula
+![](media/JetBrains_Darcula.gif)
+### Juicy_Colors
+![](media/Juicy_Colors.gif)
+### jubi
 ![](media/jubi.gif)
-### Kibble.tape
+### Kibble
 ![](media/Kibble.gif)
-### Konsolas.tape
+### Konsolas
 ![](media/Konsolas.gif)
-### Kolorit.tape
+### Kolorit
 ![](media/Kolorit.gif)
-### Lab-Fox.tape
-![](media/Lab-Fox.gif)
-### Lavandula.tape
+### Lab_Fox
+![](media/Lab_Fox.gif)
+### Lavandula
 ![](media/Lavandula.gif)
-### Later-This-Evening.tape
-![](media/Later-This-Evening.gif)
-### Laser.tape
+### Later_This_Evening
+![](media/Later_This_Evening.gif)
+### Laser
 ![](media/Laser.gif)
-### LiquidCarbon.tape
+### LiquidCarbon
 ![](media/LiquidCarbon.gif)
-### LiquidCarbonTransparent.tape
+### LiquidCarbonTransparent
 ![](media/LiquidCarbonTransparent.gif)
-### LiquidCarbonTransparentInverse.tape
+### LiquidCarbonTransparentInverse
 ![](media/LiquidCarbonTransparentInverse.gif)
-### Man-Page.tape
-![](media/Man-Page.gif)
-### Material.tape
+### Man_Page
+![](media/Man_Page.gif)
+### Material
 ![](media/Material.gif)
-### lovelace.tape
+### lovelace
 ![](media/lovelace.gif)
-### MaterialDark.tape
+### MaterialDark
 ![](media/MaterialDark.gif)
-### MaterialOcean.tape
+### MaterialOcean
 ![](media/MaterialOcean.gif)
-### MaterialDarker.tape
+### MaterialDarker
 ![](media/MaterialDarker.gif)
-### Medallion.tape
+### Medallion
 ![](media/Medallion.gif)
-### Mathias.tape
+### Mathias
 ![](media/Mathias.gif)
-### midnight-in-mojave.tape
-![](media/midnight-in-mojave.gif)
-### Misterioso.tape
+### midnight_in_mojave
+![](media/midnight_in_mojave.gif)
+### Misterioso
 ![](media/Misterioso.gif)
-### Mirage.tape
+### Mirage
 ![](media/Mirage.gif)
-### Molokai.tape
+### Molokai
 ![](media/Molokai.gif)
-### MonaLisa.tape
+### MonaLisa
 ![](media/MonaLisa.gif)
-### Monokai-Cmder.tape
-![](media/Monokai-Cmder.gif)
-### Monokai-Octagon.tape
-![](media/Monokai-Octagon.gif)
-### Monokai-Pro.tape
-![](media/Monokai-Pro.gif)
-### Monokai-Pro-(Filter-Octagon).tape
-![](media/Monokai-Pro-(Filter-Octagon).gif)
-### Monokai-Pro-(Filter-Ristretto).tape
-![](media/Monokai-Pro-(Filter-Ristretto).gif)
-### Monokai-Vivid.tape
-![](media/Monokai-Vivid.gif)
-### Monokai-Remastered.tape
-![](media/Monokai-Remastered.gif)
-### Monokai-Soda.tape
-![](media/Monokai-Soda.gif)
-### N0tch2k.tape
+### Monokai_Cmder
+![](media/Monokai_Cmder.gif)
+### Monokai_Octagon
+![](media/Monokai_Octagon.gif)
+### Monokai_Pro
+![](media/Monokai_Pro.gif)
+### Monokai_Pro_(Filter_Octagon)
+![](media/Monokai_Pro_(Filter_Octagon).gif)
+### Monokai_Pro_(Filter_Ristretto)
+![](media/Monokai_Pro_(Filter_Ristretto).gif)
+### Monokai_Vivid
+![](media/Monokai_Vivid.gif)
+### Monokai_Remastered
+![](media/Monokai_Remastered.gif)
+### Monokai_Soda
+![](media/Monokai_Soda.gif)
+### N0tch2k
 ![](media/N0tch2k.gif)
-### Moonlight-II.tape
-![](media/Moonlight-II.gif)
-### Neopolitan.tape
+### Moonlight_II
+![](media/Moonlight_II.gif)
+### Neopolitan
 ![](media/Neopolitan.gif)
-### Neutron.tape
+### Neutron
 ![](media/Neutron.gif)
-### Night-Owlish-Light.tape
-![](media/Night-Owlish-Light.gif)
-### NightLion-v1.tape
-![](media/NightLion-v1.gif)
-### NightLion-v2.tape
-![](media/NightLion-v2.gif)
-### Nocturnal-Winter.tape
-![](media/Nocturnal-Winter.gif)
-### nord.tape
+### Night_Owlish_Light
+![](media/Night_Owlish_Light.gif)
+### NightLion_v1
+![](media/NightLion_v1.gif)
+### NightLion_v2
+![](media/NightLion_v2.gif)
+### Nocturnal_Winter
+![](media/Nocturnal_Winter.gif)
+### nord
 ![](media/nord.gif)
-### Obsidian.tape
+### Obsidian
 ![](media/Obsidian.gif)
-### Novel.tape
+### Novel
 ![](media/Novel.gif)
-### Ocean.tape
+### Ocean
 ![](media/Ocean.gif)
-### OceanicMaterial.tape
+### OceanicMaterial
 ![](media/OceanicMaterial.gif)
-### OneDark.tape
+### OneDark
 ![](media/OneDark.gif)
-### Ollie.tape
+### Ollie
 ![](media/Ollie.gif)
-### OneStar.tape
+### OneStar
 ![](media/OneStar.gif)
-### OneHalfLight.tape
+### OneHalfLight
 ![](media/OneHalfLight.gif)
-### OneHalfDark.tape
+### OneHalfDark
 ![](media/OneHalfDark.gif)
-### Operator-Mono-Dark.tape
-![](media/Operator-Mono-Dark.gif)
-### PaleNightHC.tape
+### Operator_Mono_Dark
+![](media/Operator_Mono_Dark.gif)
+### PaleNightHC
 ![](media/PaleNightHC.gif)
-### Overnight-Slumber.tape
-![](media/Overnight-Slumber.gif)
-### Paraiso-Dark.tape
-![](media/Paraiso-Dark.gif)
-### Parasio-Dark.tape
-![](media/Parasio-Dark.gif)
-### Pandora.tape
+### Overnight_Slumber
+![](media/Overnight_Slumber.gif)
+### Paraiso_Dark
+![](media/Paraiso_Dark.gif)
+### Parasio_Dark
+![](media/Parasio_Dark.gif)
+### Pandora
 ![](media/Pandora.gif)
-### PaulMillr.tape
+### PaulMillr
 ![](media/PaulMillr.gif)
-### PencilLight.tape
+### PencilLight
 ![](media/PencilLight.gif)
-### PencilDark.tape
+### PencilDark
 ![](media/PencilDark.gif)
-### Piatto-Light.tape
-![](media/Piatto-Light.gif)
-### Pnevma.tape
+### Piatto_Light
+![](media/Piatto_Light.gif)
+### Pnevma
 ![](media/Pnevma.gif)
-### Popping-and-Locking.tape
-![](media/Popping-and-Locking.gif)
-### primary.tape
+### Popping_and_Locking
+![](media/Popping_and_Locking.gif)
+### primary
 ![](media/primary.gif)
-### Primer.tape
+### Primer
 ![](media/Primer.gif)
-### Pro.tape
+### Pro
 ![](media/Pro.gif)
-### Pro-Light.tape
-![](media/Pro-Light.gif)
-### purplepeter.tape
+### Pro_Light
+![](media/Pro_Light.gif)
+### purplepeter
 ![](media/purplepeter.gif)
-### Purple-Rain.tape
-![](media/Purple-Rain.gif)
-### QB64-Super-Dark-Blue.tape
-![](media/QB64-Super-Dark-Blue.gif)
-### Rapture.tape
+### Purple_Rain
+![](media/Purple_Rain.gif)
+### QB64_Super_Dark_Blue
+![](media/QB64_Super_Dark_Blue.gif)
+### Rapture
 ![](media/Rapture.gif)
-### rebecca.tape
+### rebecca
 ![](media/rebecca.gif)
-### Red-Planet.tape
-![](media/Red-Planet.gif)
-### Red-Sands.tape
-![](media/Red-Sands.gif)
-### Red-Alert.tape
-![](media/Red-Alert.gif)
-### Relaxed.tape
+### Red_Planet
+![](media/Red_Planet.gif)
+### Red_Sands
+![](media/Red_Sands.gif)
+### Red_Alert
+![](media/Red_Alert.gif)
+### Relaxed
 ![](media/Relaxed.gif)
-### Rippedcasts.tape
+### Rippedcasts
 ![](media/Rippedcasts.gif)
-### Retrowave.tape
+### Retrowave
 ![](media/Retrowave.gif)
-### Rouge-2.tape
-![](media/Rouge-2.gif)
-### Royal.tape
+### Rouge_2
+![](media/Rouge_2.gif)
+### Royal
 ![](media/Royal.gif)
-### Rose-Pine.tape
-![](media/Rose-Pine.gif)
-### Ryuuko.tape
+### Rose_Pine
+![](media/Rose_Pine.gif)
+### Ryuuko
 ![](media/Ryuuko.gif)
-### Sakura.tape
+### Sakura
 ![](media/Sakura.gif)
-### Scarlet-Protocol.tape
-![](media/Scarlet-Protocol.gif)
-### Seafoam-Pastel.tape
-![](media/Seafoam-Pastel.gif)
-### Serendipity-Midnight.tape
-![](media/Serendipity-Midnight.gif)
-### SeaShells.tape
+### Scarlet_Protocol
+![](media/Scarlet_Protocol.gif)
+### Seafoam_Pastel
+![](media/Seafoam_Pastel.gif)
+### Serendipity_Midnight
+![](media/Serendipity_Midnight.gif)
+### SeaShells
 ![](media/SeaShells.gif)
-### Serendipity-Sunset.tape
-![](media/Serendipity-Sunset.gif)
-### Serendipity-Morning.tape
-![](media/Serendipity-Morning.gif)
-### Seti.tape
+### Serendipity_Sunset
+![](media/Serendipity_Sunset.gif)
+### Serendipity_Morning
+![](media/Serendipity_Morning.gif)
+### Seti
 ![](media/Seti.gif)
-### Shaman.tape
+### Shaman
 ![](media/Shaman.gif)
-### shades-of-purple.tape
-![](media/shades-of-purple.gif)
-### Slate.tape
+### shades_of_purple
+![](media/shades_of_purple.gif)
+### Slate
 ![](media/Slate.gif)
-### SleepyHollow.tape
+### SleepyHollow
 ![](media/SleepyHollow.gif)
-### Smyck.tape
+### Smyck
 ![](media/Smyck.gif)
-### Snazzy.tape
+### Snazzy
 ![](media/Snazzy.gif)
-### Solarized-Darcula.tape
-![](media/Solarized-Darcula.gif)
-### Solarized-Dark---Patched.tape
-![](media/Solarized-Dark---Patched.gif)
-### SoftServer.tape
+### Solarized_Darcula
+![](media/Solarized_Darcula.gif)
+### Solarized_Dark___Patched
+![](media/Solarized_Dark___Patched.gif)
+### SoftServer
 ![](media/SoftServer.gif)
-### Sonoran-Gothic.tape
-![](media/Sonoran-Gothic.gif)
-### Solarized-Dark-Higher-Contrast.tape
-![](media/Solarized-Dark-Higher-Contrast.gif)
-### Sonoran-Sunrise.tape
-![](media/Sonoran-Sunrise.gif)
-### SpaceGray.tape
+### Sonoran_Gothic
+![](media/Sonoran_Gothic.gif)
+### Solarized_Dark_Higher_Contrast
+![](media/Solarized_Dark_Higher_Contrast.gif)
+### Sonoran_Sunrise
+![](media/Sonoran_Sunrise.gif)
+### SpaceGray
 ![](media/SpaceGray.gif)
-### Spacedust.tape
+### Spacedust
 ![](media/Spacedust.gif)
-### SpaceGray-Eighties.tape
-![](media/SpaceGray-Eighties.gif)
-### Spiderman.tape
+### SpaceGray_Eighties
+![](media/SpaceGray_Eighties.gif)
+### Spiderman
 ![](media/Spiderman.gif)
-### SpaceGray-Eighties-Dull.tape
-![](media/SpaceGray-Eighties-Dull.gif)
-### Spring.tape
+### SpaceGray_Eighties_Dull
+![](media/SpaceGray_Eighties_Dull.gif)
+### Spring
 ![](media/Spring.gif)
-### Square.tape
+### Square
 ![](media/Square.gif)
-### Subliminal.tape
+### Subliminal
 ![](media/Subliminal.gif)
-### Sublette.tape
+### Sublette
 ![](media/Sublette.gif)
-### Symfonic.tape
+### Symfonic
 ![](media/Symfonic.gif)
-### Sundried.tape
+### Sundried
 ![](media/Sundried.gif)
-### synthwave.tape
+### synthwave
 ![](media/synthwave.gif)
-### Tango-Half-Adapted.tape
-![](media/Tango-Half-Adapted.gif)
-### Tango-Adapted.tape
-![](media/Tango-Adapted.gif)
-### synthwave-everything.tape
-![](media/synthwave-everything.gif)
-### Teerb.tape
+### Tango_Half_Adapted
+![](media/Tango_Half_Adapted.gif)
+### Tango_Adapted
+![](media/Tango_Adapted.gif)
+### synthwave_everything
+![](media/synthwave_everything.gif)
+### Teerb
 ![](media/Teerb.gif)
-### Terminal-Basic.tape
-![](media/Terminal-Basic.gif)
-### Thayer-Bright.tape
-![](media/Thayer-Bright.gif)
-### The-Hulk.tape
-![](media/The-Hulk.gif)
-### Tinacious-Design-(Light).tape
-![](media/Tinacious-Design-(Light).gif)
-### Tinacious-Design-(Dark).tape
-![](media/Tinacious-Design-(Dark).gif)
-### TokyoNightLight.tape
+### Terminal_Basic
+![](media/Terminal_Basic.gif)
+### Thayer_Bright
+![](media/Thayer_Bright.gif)
+### The_Hulk
+![](media/The_Hulk.gif)
+### Tinacious_Design_(Light)
+![](media/Tinacious_Design_(Light).gif)
+### Tinacious_Design_(Dark)
+![](media/Tinacious_Design_(Dark).gif)
+### TokyoNightLight
 ![](media/TokyoNightLight.gif)
-### TokyoNight.tape
+### TokyoNight
 ![](media/TokyoNight.gif)
-### TokyoNightStorm.tape
+### TokyoNightStorm
 ![](media/TokyoNightStorm.gif)
-### Tomorrow.tape
+### Tomorrow
 ![](media/Tomorrow.gif)
-### Tomorrow-Night.tape
-![](media/Tomorrow-Night.gif)
-### Tomorrow-Night-Blue.tape
-![](media/Tomorrow-Night-Blue.gif)
-### Tomorrow-Night-Bright.tape
-![](media/Tomorrow-Night-Bright.gif)
-### Tomorrow-Night-Eighties.tape
-![](media/Tomorrow-Night-Eighties.gif)
-### Tomorrow-Night-Burns.tape
-![](media/Tomorrow-Night-Burns.gif)
-### ToyChest.tape
+### Tomorrow_Night
+![](media/Tomorrow_Night.gif)
+### Tomorrow_Night_Blue
+![](media/Tomorrow_Night_Blue.gif)
+### Tomorrow_Night_Bright
+![](media/Tomorrow_Night_Bright.gif)
+### Tomorrow_Night_Eighties
+![](media/Tomorrow_Night_Eighties.gif)
+### Tomorrow_Night_Burns
+![](media/Tomorrow_Night_Burns.gif)
+### ToyChest
 ![](media/ToyChest.gif)
-### Twilight.tape
+### Twilight
 ![](media/Twilight.gif)
-### Treehouse.tape
+### Treehouse
 ![](media/Treehouse.gif)
-### Ubuntu.tape
+### Ubuntu
 ![](media/Ubuntu.gif)
-### UnderTheSea.tape
+### UnderTheSea
 ![](media/UnderTheSea.gif)
-### UltraViolent.tape
+### UltraViolent
 ![](media/UltraViolent.gif)
-### Unholy.tape
+### Unholy
 ![](media/Unholy.gif)
-### Urple.tape
+### Urple
 ![](media/Urple.gif)
-### Unikitty.tape
+### Unikitty
 ![](media/Unikitty.gif)
-### Vaughn.tape
+### Vaughn
 ![](media/Vaughn.gif)
-### VibrantInk.tape
+### VibrantInk
 ![](media/VibrantInk.gif)
-### Violet-Dark.tape
-![](media/Violet-Dark.gif)
-### Violet-Light.tape
-![](media/Violet-Light.gif)
-### Wez.tape
+### Violet_Dark
+![](media/Violet_Dark.gif)
+### Violet_Light
+![](media/Violet_Light.gif)
+### Wez
 ![](media/Wez.gif)
-### WarmNeon.tape
+### WarmNeon
 ![](media/WarmNeon.gif)
-### Whimsy.tape
+### Whimsy
 ![](media/Whimsy.gif)
-### WildCherry.tape
+### WildCherry
 ![](media/WildCherry.gif)
-### Wombat.tape
+### Wombat
 ![](media/Wombat.gif)
-### Wryan.tape
+### Wryan
 ![](media/Wryan.gif)
-### Zenburn.tape
+### Zenburn
 ![](media/Zenburn.gif)
